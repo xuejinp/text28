@@ -1,4 +1,4 @@
 # 忽略所有的.js 文件
-*.js
+# *.js
 # 排除 base.js
 !base.js
